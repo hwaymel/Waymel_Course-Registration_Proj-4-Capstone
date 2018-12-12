@@ -1,0 +1,12 @@
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\bin\Debug\CUDenver.mdf
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\bin\Debug\CUDenver_log.ldf
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\bin\Debug\Class_Selection-Capstone.exe.config
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\bin\Debug\Class_Selection-Capstone.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\bin\Debug\Class_Selection-Capstone.pdb
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\obj\Debug\Class_Selection-Capstone.csprojAssemblyReference.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\obj\Debug\Class_Selection_Capstone.frmCourseSelector.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\obj\Debug\Class_Selection_Capstone.Properties.Resources.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\obj\Debug\Class_Selection-Capstone.csproj.GenerateResource.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\obj\Debug\Class_Selection-Capstone.csproj.CoreCompileInputs.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\obj\Debug\Class_Selection-Capstone.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Capstone Project 4\Class_Selection-Capstone\Class_Selection-Capstone\obj\Debug\Class_Selection-Capstone.pdb
